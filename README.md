@@ -33,6 +33,6 @@ xgboost,
 
 ANACONDA
 
-<a href="https://www.anaconda.com/products/distribution" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="ionic" width="300" height="300" /></a>
+<a href="https://www.anaconda.com/products/distribution" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="ionic" width="300" height="600" /></a>
 
 
