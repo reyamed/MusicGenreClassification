@@ -15,3 +15,12 @@ CHARKAOUI WIJDANE
 
 ###### les exigences et les bibliothèques nécessaires pour l'exécution du code:
 
+## les bibliothèques PYTHON:
+
+pandas,
+numpy,
+matplotlib,
+seaborn,
+sklearn (preprocessing, model_selection, metrics, linear_model, naive_bayes, neighbors, tree, ensemble, svm..) 
+xgboost,
+
