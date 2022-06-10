@@ -25,7 +25,7 @@ matplotlib,
 
 seaborn,
 
-sklearn (preprocessing, model_selection, metrics, linear_model, naive_bayes, neighbors, tree, ensemble, svm..) 
+sklearn **(preprocessing, model_selection, metrics, linear_model, naive_bayes, neighbors, tree, ensemble, svm..)**
 
 xgboost,
 
