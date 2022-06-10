@@ -31,8 +31,8 @@ xgboost,
 
 ###### l'environnement de travail:
 
-ANACONDA
 
-<a href="https://www.anaconda.com/products/distribution" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="ionic" width="600" height="300" /></a>
+<a href="https://www.anaconda.com/products/distribution" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="anaconda" width="600" height="300" /></a>
 
+<a href="https://www.anaconda.com/products/distribution" target="_blank"><img src="https://fr.wikipedia.org/wiki/Jupyter#/media/Fichier:Jupyter_logo.svg" alt="jupiter" width="300" height="300" /></a>
 
